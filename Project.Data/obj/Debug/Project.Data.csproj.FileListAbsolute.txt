@@ -1,0 +1,6 @@
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\bin\Debug\Project.Data.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\bin\Debug\Project.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\obj\Debug\Project.Data.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\obj\Debug\Project.Data.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\obj\Debug\Project.Data.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\GitHub\ASP.NET-MVC-Fundamentals-master\ASP.NET-MVC-Fundamentals\Project.Data\obj\Debug\Project.Data.pdb
