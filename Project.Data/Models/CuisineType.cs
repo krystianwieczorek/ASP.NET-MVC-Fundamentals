@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Project.Data.Models
 {
-    class CuisineType
+    public enum CuisineType
     {
+        None,
+        Italian,
+        Idian,
+        French
     }
 }
